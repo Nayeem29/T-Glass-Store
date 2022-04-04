@@ -1,10 +1,15 @@
-# Getting Started with Create React App
+## T-Glass Store
+### Live link and Git Hub Link here:
+Live link: https://react-t-glass-store.netlify.app/
+Git Hub link: https://github.com/programming-hero-web-course-4/product-analysis-website-Nayeem29
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+### Pages and packages
+* Active Nav Bar is used.
+* Home, Reviews, Dashboard, Blogs and About pages available.
+* Recharts is used in dashboard page for building charts.
+* Font Awesome for Icons.
+* Dynamic Routes is used.
+* Not Found will be shown for invalid pages. 
 
 ### `npm start`
 
