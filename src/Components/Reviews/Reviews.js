@@ -5,7 +5,7 @@ import HomeReviews from '../Home/HomeReviews/HomeReviews';
 const Reviews = () => {
   const [reviews, setReviews] = useReviews();
   return (
-    <div>
+    <div className='mb-16'>
       {
         reviews.map(review => <HomeReviews
           review={review}

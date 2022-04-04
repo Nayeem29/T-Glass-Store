@@ -14,7 +14,7 @@ const Home = () => {
           <h1 className='text-6xl text-orange-400 font-semibold tracking-wide uppercase'>get Top-Notch Sunglasses</h1>
           <hr className='my-3' />
           <h1 className='text-6xl text-yellow-500 font-semibold tracking-wide uppercase'>Customers' always king</h1>
-          <p className='mt-12'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nesciunt, quibusdam architecto officia tempora dicta sunt sed, eligendi animi expedita hic dignissimos vero fugiat ea cum voluptate non amet corporis repudiandae!</p>
+          <p className='mt-12 text-justify font-mono leading-7'>We provide unique styles of Sunglasses and white glasses which will benefit to your eyes. We have eye specialist doctors who are availabe every week day to you services. Our branches are available in Banani and Dhanmondi but we can reach your doorstep if you order online with your prescriptions or sizes that would fit you.</p>
         </div>
         <img className='h-3/4 w-3/4 mx-auto rounded-3xl' src={require('../Images/imageOne.jpg')} alt="" />
       </div>
@@ -30,7 +30,7 @@ const Home = () => {
         }
 
       </section>
-      <div className='my-8 flex items-center justify-center'>
+      <div className='my-8 flex items-center justify-center mb-7'>
         <button onClick={() => navigate(`/reviews`)}
           className='border-2 px-6 py-1 rounded-xl bg-amber-400 font-semibold text-2xl text-black'>see more</button>
       </div>
