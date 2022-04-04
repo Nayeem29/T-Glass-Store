@@ -1,10 +1,11 @@
 import React from 'react';
+import uuid from 'react-uuid';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faStar } from '@fortawesome/free-solid-svg-icons';
 
 const HomeReviews = ({ review }) => {
   const { greeting, gender, name, rating, image } = review;
-  console.log(image);
+
   const stars = Array(rating).fill(0);
   return (
 
@@ -22,7 +23,7 @@ const HomeReviews = ({ review }) => {
       </div>
       <div className="ratings ml-4 pl-6 flex justify-center md:justify-start items-center">
         {
-          stars.map(star => <FontAwesomeIcon icon={faStar} />)
+          stars.map(star => <FontAwesomeIcon key={uuid()} icon={faStar} />)
         }
       </div>
     </div>
