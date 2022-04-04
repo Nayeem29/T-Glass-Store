@@ -2,6 +2,7 @@
   {
     "_id": "6249fb6ddfe072df5f881c65",
     "age": 27,
+    "rating": 3,
     "eyeColor": "brown",
     "name": "Ora Odom",
     "gender": "female",
@@ -16,6 +17,7 @@
   {
     "_id": "6249fb6d9a1aa5d8bba0a4be",
     "age": 33,
+    "rating": 4,
     "eyeColor": "green",
     "name": "Wong Bauer",
     "gender": "male",
@@ -30,6 +32,7 @@
   {
     "_id": "6249fb6d09bbcabdf7427c49",
     "age": 34,
+    "rating": 5,
     "eyeColor": "brown",
     "name": "Craft Beck",
     "gender": "male",
@@ -44,6 +47,7 @@
   {
     "_id": "6249fb6dfbda483407e718b1",
     "age": 24,
+    "rating": 3,
     "eyeColor": "green",
     "name": "Louisa Reynolds",
     "gender": "female",
@@ -58,6 +62,7 @@
   {
     "_id": "6249fb6d96f6f548b69f7482",
     "age": 20,
+    "rating": 3,
     "eyeColor": "blue",
     "name": "Tracey Stevenson",
     "gender": "female",
@@ -72,6 +77,7 @@
   {
     "_id": "6249fb6d6a28600bdbd9d806",
     "age": 24,
+    "rating": 4,
     "eyeColor": "brown",
     "name": "Agnes Nunez",
     "gender": "female",
@@ -86,6 +92,7 @@
   {
     "_id": "6249fb6dae34c5f1497636c1",
     "age": 34,
+    "rating": 5,
     "eyeColor": "blue",
     "name": "Sophie Colon",
     "gender": "female",
@@ -100,6 +107,7 @@
   {
     "_id": "6249fb6d1cf2830bdafbd473",
     "age": 31,
+    "rating": 5,
     "eyeColor": "blue",
     "name": "Effie Landry",
     "gender": "female",
@@ -114,6 +122,7 @@
   {
     "_id": "6249fb6d238df93b3777e83f",
     "age": 35,
+    "rating": 5,
     "eyeColor": "green",
     "name": "Wells Carlson",
     "gender": "male",
@@ -128,6 +137,7 @@
   {
     "_id": "6249fb6d884b8688fed20fed",
     "age": 32,
+    "rating": 3,
     "eyeColor": "green",
     "name": "Lupe Brown",
     "gender": "female",
@@ -142,6 +152,7 @@
   {
     "_id": "6249fb6d1c8c10b91ef85547",
     "age": 28,
+    "rating": 4,
     "eyeColor": "green",
     "name": "Wilma Sexton",
     "gender": "female",
