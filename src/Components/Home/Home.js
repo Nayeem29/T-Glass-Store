@@ -12,7 +12,7 @@ const Home = () => {
       <div className='grid grid-cols-1 md:grid-cols-2 mx-6 text-center'>
         <div className='mt-8'>
           <h1 className='text-6xl text-orange-400 font-semibold tracking-wide uppercase'>get Top-Notch Sunglasses</h1>
-          <br />
+          <hr className='my-3' />
           <h1 className='text-6xl text-yellow-500 font-semibold tracking-wide uppercase'>Customers' always king</h1>
           <p className='mt-12'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nesciunt, quibusdam architecto officia tempora dicta sunt sed, eligendi animi expedita hic dignissimos vero fugiat ea cum voluptate non amet corporis repudiandae!</p>
         </div>
